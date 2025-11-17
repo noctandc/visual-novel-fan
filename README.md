@@ -1,10 +1,10 @@
 # visual-novel-fan
 Projet non officiel et entièrement non commercial, réalisé par un fan pour l'expérimentation narrative et le développement technique.
 
-# Visual Novels Warriors - APK Repository
+# Visual Novels Fan - APK Repository
 
 Bienvenue sur le dépôt des adaptations de fanfictions "La Guerre des Clans" en Romans Visuels (Visual Novels).  
-Ce projet a pour but de donner une nouvelle vie interactive à des histoires de la communauté, avec l'accord explicite de leurs auteurs.
+Ce projet a pour but de donner une nouvelle vie interactive à des histoires de la communauté<!-- du Wiki Vos Histoires de LGDC-->, avec l'accord explicite de leurs auteurs.
 
 **Projet 100% non-officiel, gratuit, et non-commercial.**
 
@@ -14,7 +14,7 @@ Votre sécurité est la priorité absolue de ce projet. Nous comprenons que tél
 Chaque application de ce dépôt est construite sur les principes suivants :
 
 * **ZÉRO PERMISSION :** Les applications ne demandent **aucune permission** sur votre appareil. Elles ne peuvent ni lire vos fichiers, ni accéder à vos contacts, ni voir votre localisation.
-* **PAS D'ACCÈS INTERNET :** Les applications sont conçLES pour fonctionner **entièrement hors-ligne**. Elles n'ont pas la permission d'accéder à Internet et ne peuvent donc envoyer ou recevoir aucune donnée.
+* **PAS D'ACCÈS INTERNET :** Les applications sont conç pour fonctionner **entièrement hors-ligne**. Elles n'ont pas la permission d'accéder à Internet et ne peuvent donc envoyer ou recevoir aucune donnée.
 * **PAS DE COLLECTE DE DONNÉES :** Aucune donnée personnelle, statistique ou d'utilisation n'est collectée.
 * **CODE 100% OPEN-SOURCE :** Le code source de chaque Visual Novel est public sur ce dépôt GitHub. N'importe qui peut l'inspecter pour vérifier les points ci-dessus.
 * **SCAN ANTIVIRUS :** Chaque `.apk` dans l'onglet "Releases" est accompagné d'un **lien vers un rapport VirusTotal**, prouvant qu'il a été scanné par ~70 antivirus et est certifié sain.
