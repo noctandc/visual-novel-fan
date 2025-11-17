@@ -52,16 +52,16 @@ Ce projet est rendu possible grâce à des outils open-source.
 
 * **Moteur de Jeu :** [Ren'Py](https://www.renpy.org/) (Moteur de Visual Novel gratuit)
 * **Éditeur de Code :** [Visual Studio Code](https://code.visualstudio.com/)
-* **Graphismes :** [Krita](https://krita.org/fr/), [GIMP](https://www.gimp.org/) et créations originales
 * **Versionning :** Git & GitHub
 
 ### Licences du Projet
-Ce projet utilise deux licences distinctes :
+Ce projet utilise plusieurs licences compatibles :
 
-* **Pour le Code Source :** [**Licence MIT**](LICENSE)  
-    *(Vous pouvez librement réutiliser le code, à condition de me créditer).*
-* **Pour le Contenu (Assets) :** [**CC BY-NC-SA 4.0**](LICENSE-ASSETS.md)  
-    *(Concerne les dessins, musiques et UI originaux créés pour ce projet. Vous pouvez les partager mais **PAS pour un usage commercial**).*
+* **Code Source & Créations Originales : CC BY-NC-SA 4.0**
+*(Concerne le code Ren'Py, l'UI, et les dessins originaux. Vous pouvez les réutiliser et modifier, mais jamais pour un usage commercial).*
+
+* **Assets Tiers (Musiques, Sons, Images) : Voir LICENSE-ASSETS.md**
+*(Chaque asset téléchargé conserve sa licence d'origine. Ce fichier les liste toutes).*
 
 ## Disclaimer Légal
 
